@@ -4,6 +4,41 @@
 
 ---
 
+## 2026-04-16 First Run (Routines, Drafts-Only)
+
+### Exploitation (80%)
+- Drafts posted: 0 (blocked -- no templates in repo)
+- Drafts approved / sent: 0
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: none new since 13 Apr (Danny Fordham warm reply already handled by Andy)
+- Tracker updates: none (blocked -- schema mismatch and xlsx format)
+- Pipeline status: ~24+ total across both regions (estimate from Drive content snippets), 1 warm (Andy handling), 1 opted out, ~12 in re-engagement monitoring window (ends 18-19 Apr)
+
+### Exploration (20%)
+- Analysis done: Full connector audit, tracker format assessment, Gmail review of re-engagement batch status
+- Experiments proposed: none (first run, focused on infrastructure readiness)
+- Cross-domain signals: Read Wiki's Slack reports from today. Key items:
+  - Wiki confirmed Tippercrete (Danny Fordham) very warm, replied twice within 19 min, CI sample delivered 14 Apr
+  - JDW Brickwork converted (invoice TTAI-004, GBP 500) -- direction-of-initiation hypothesis: cold -> CI tier, inbound -> managed Mark
+  - Revenue position stronger than wiki showed (GBP 3,188.20 invoiced vs GBP 938.20 previously displayed)
+  - Wiki flagged Apr 18-28 as convergence window (re-engagement results, Tippercrete response, JDW build, AccXel discovery)
+  - Fred last reported 13 Apr, may be stalled during NBA playoffs
+
+### Decisions Made
+- **Stopped at tracker read, did not write**: Live trackers are .xlsx on Drive with different column structure than tracker-schema.md. Per rules: schema mismatch = stop and escalate. Correct decision -- writing to a mismatched schema risks data corruption.
+- **Did not draft emails**: Templates directory missing from repo. Per rules: missing template = do not improvise. Escalated to Slack.
+- **Did not send any emails**: Drafts-only mode. No drafts to send.
+- **Classified Gmail inbox**: Only Mark-Lite-relevant reply was Danny Fordham (13 Apr, already handled by Andy). Re-engagement batch (12 firms, 13 Apr) has zero replies at day 3 -- still within monitoring window.
+
+### Questions for Andy
+1. Convert trackers from .xlsx to native Google Sheets? Or provide alternative access method?
+2. Is tracker-schema.md the target schema (to be migrated to), or should it be updated to match existing tracker structure?
+3. Add email templates to templates/ in the repo
+4. Create reports/ and campaigns/ directories (or confirm I should create them)
+
+---
+
 ## 2026-04-16 Migration to Routines (Drafts-Only Launch)
 
 ### Context
