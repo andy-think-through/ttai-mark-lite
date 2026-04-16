@@ -4,6 +4,45 @@
 
 ---
 
+## 2026-04-16 Daily Run (4th scheduled run -- first to commit)
+
+### Context
+
+This is the first day of Mark-Lite running as a Routine. Four runs triggered today. The first three (12:37, 13:34, 14:16) posted to Slack but did not commit to the repo. This run is the first to persist state.
+
+### Exploitation (80%)
+- Drafts posted: 0 this run (4 Northants Groundworks Email 4 drafts posted at 13:33-13:34, still awaiting Andy's review)
+- Drafts approved / sent: 0
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: none new since Danny Fordham (13 Apr). Re-engagement batch (12 firms, sent 13 Apr) at day 3 of 5 -- zero replies.
+- Tracker updates: 1 status change staged (Tippercrete: In Sequence -> Warm). 5 items flagged for Andy's input (status normalisation, blank row cleanup, JDW -> Client).
+- Pipeline status:
+  - Warwickshire: 26 named prospects. 3 warm/replied (J&M, SRK, Tippercrete). 3 sequence completers (A Valley Plant, M Carty, Kimben -- re-engagement candidates). 2 opted out. 18 supply-chain firms at Email 2-4 (no further action per principles).
+  - Northants: 39 named prospects. 4 Groundworks due Email 4 (drafted, pending review). 3 CE stuck at Email 1-2 (no leads). 1 warm (R8). 1 client (JDW). 5 Roofing at Email 2. 6 Electrical at Email 3-4. 4 HVAC at Email 2. 5 Drainage at Email 1-3.
+
+### Exploration (20%)
+- Analysis done: Full tracker read of both regions. Identified status normalisation issue ("Replied" variants not in canonical schema). Identified ~180 blank rows in Warwickshire tracker.
+- Experiments proposed: none this run.
+- Cross-domain signals: Read Wiki's 09:34 report. Key insight: April 18-28 convergence window (re-engagement results, Tippercrete response, JDW build, AccXel discovery). Andy's attention is limited. Keeping reports tight. Fred last reported 13 Apr -- not actionable for Mark-Lite.
+
+### Decisions Made
+- Staged Tippercrete status change to Warm (Danny replied 13 Apr requesting a sample, Andy sent CI sample 14 Apr -- this is clearly a warm prospect).
+- Did NOT draft new emails this run: 4 Email 4 drafts from 13:34 run still pending Andy's review. No new prospects due for emails.
+- Did NOT change "Replied" statuses to "Warm" autonomously: flagged for Andy because "Replied" isn't in the schema and I need confirmation on the intended status for each.
+- Did NOT set JDW to Client: only Andy can set that status per schema rules.
+
+### Questions for Andy
+1. Approve/edit/reject the 4 Groundworks Email 4 drafts (posted 13:33-13:34 in Slack)
+2. Status normalisation: "Replied", "Replied - Warm", "Replied -- Warm" should be normalised to schema values. Confirm J&M and SRK should be "Warm"?
+3. JDW Brickwork: Should be "Client" (invoice TTAI-004). Please confirm so Cowork can update.
+4. Warwickshire re-engagement: Draft for A Valley Plant, M Carty, Kimben? (all 28-36 days post-Email 4)
+5. CE lead supply: Prestige, L4, MMK stuck 3-4 weeks. Skip-gap check-in or keep holding?
+6. ~180 blank rows in Warwickshire Companies tab -- safe to delete?
+7. Tracker write process: Cowork apply process ready to run, or does it still need setup?
+
+---
+
 ## 2026-04-16 Migration to Routines (Drafts-Only Launch)
 
 ### Context
