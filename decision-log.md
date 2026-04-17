@@ -4,6 +4,40 @@
 
 ---
 
+## 2026-04-17 Daily Run (First Routine Run)
+
+### Exploitation (80%)
+- Drafts posted: 0 new (4 Email 4 drafts carried forward from 16/04, approved by Andy)
+- Gmail drafts created: 4 (Hewlett, MBH, NR Groundworks, Brennan -- all Email 4, Northants Groundworks)
+- Drafts approved / sent: 4 approved by Andy on 16/04 / 0 sent (no gmail_send_draft tool available; drafts in Gmail for Andy to send)
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: none new (checked Gmail -- only a Railway promotional email)
+- Tracker updates: 14 changes staged in pending-tracker-updates.md (8 Northants Companies updates, 4 Outreach_Log rows, 2 Warwickshire Companies status changes)
+- Pipeline status: Northants 34 in sequence + 2 warm + 3 not started = 39 total. Warwickshire 22 in sequence + 2 replied/warm + 2 opted out = 26 total. Combined active: 58.
+
+### Exploration (20%)
+- Analysis done: Read Wiki's last 3 reports. Key signal: April 17-28 critical convergence window (7 decisions in 11 days). Revenue de-concentration happening organically. CE leads confirmed as same structural problem as supply-chain trades.
+- Experiments proposed: None this run. Focused on first-run setup and clearing backlog.
+- Cross-domain signals: Wiki confirmed Tippercrete CI sample at ~96hrs with no reply. Fred paused, Andy fixing.
+
+### Decisions Made
+- **Created Gmail drafts instead of sending directly:** No gmail_send_draft tool available in my connector set. Created 4 drafts in Gmail for Andy to send manually. This is actually consistent with drafts-only mode -- Andy gets a final check in Gmail before hitting send.
+- **Skipped today's Thursday batch (Northants):** All 8 prospects are supply-chain trades (5 Electrical at #4, 1 Roofing at #2, 2 Drainage at #1). Per principles, planning data doesn't serve these trades. No leads to match, no drafts to create.
+- **Flagged missing re-engagement template:** Andy requested re-engagement emails for Warwickshire completers (A Valley Plant, M Carty, Kimben). No re-engagement template file exists in templates/. Cannot draft without template per prompt rules. Escalated.
+- **CE skip confirmed:** Andy said "CE skip for now, we need a better strategy." Prestige, L4, MMK remain stuck at Email 1-2 in Northants.
+- **Staged Tippercrete -> Warm:** Prior run identified this but pending updates were never committed. Staging now.
+- **Staged J&M Groundworks -> Warm:** Tracker shows "Replied" (not a valid schema status) but notes say "Warm lead." Normalised to Warm.
+- **Flagged 973 blank rows in Warwickshire tracker:** Andy instructed deletion. Staged for Cowork process.
+
+### Questions for Andy
+1. SRK Groundworks status -- "Replied" with no notes. Warm or something else?
+2. JDW Brickwork status -- call scheduled with Josh Warren. In Conversation or Client?
+3. Re-engagement template -- please add to templates/ so I can draft for A Valley Plant, M Carty, Kimben.
+4. Gmail send capability -- I can create drafts but not send. Is there a gmail_send_draft connector to enable, or do you prefer to send manually?
+
+---
+
 ## 2026-04-16 Migration to Routines (Drafts-Only Launch)
 
 ### Context
