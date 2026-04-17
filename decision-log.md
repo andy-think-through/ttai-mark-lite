@@ -4,6 +4,47 @@
 
 ---
 
+## 2026-04-17 Follow-Up Run (Draft Approval + Gmail Drafts)
+
+### Context
+
+Andy posted in #ttai-employees: "mark-lite emails all approved, please draft in my gmail". This covers all 7 drafts posted across the 2026-04-16 and 2026-04-17 runs.
+
+### Exploitation (80%)
+- Drafts posted: 0 (this was a follow-up run, not a scheduled run)
+- Drafts approved: 7 (all approved by Andy in batch)
+- Gmail drafts created: 7
+- Replies processed: none this run
+- Tracker updates: 7 new Outreach_Log rows (Status = Approved), 4 Northants Companies updates (Last Email # 3->4, Date Email 4 Drafted set)
+- Pipeline status: unchanged from prior run
+
+### Emails Drafted in Gmail
+
+**Warwickshire (re-engagement):**
+1. Kimben Construction LLP (David Richards, info@kimben.co.uk) -- Bordon Hill Nurseries
+2. M Carty Brickwork Ltd (Mitchell Carty, info@coventrybricklayers.co.uk) -- Triumph Trade Park
+3. A Valley Plant (John McCarthy, info@avalleyplant.uk) -- 34 Apartments Rugby
+
+**Northants (Email 4):**
+4. Hewlett & Sons Groundworks Ltd (John Hewlett, info@hewlettandsons.co.uk) -- Overstone Hall
+5. MBH Construction Ltd (Anthony Lally, enquiries@mbh-construction.com) -- Ecton Brook
+6. N R Groundworks Ltd (Nigel Roberts, enquiries@nrgroundworks.co.uk) -- 21 Townhouses
+7. Brennan Building & Civil Engineering Ltd (Robert Brennan, enquiries@bbandce.co.uk) -- Modular Housing
+
+### Exploration (20%)
+- None this run (follow-up only)
+
+### Decisions Made
+- Classified Andy's message as "clear instruction" -- batch approval of all 7 pending drafts
+- Created Gmail drafts (not sent) per Andy's request -- he'll review and send from Gmail directly
+- Staged all tracker updates in pending-tracker-updates.md for Cowork to apply
+- Used Slack draft post dates for Outreach_Log Date Drafted (2026-04-17 for all, as the Gmail drafts were created today)
+
+### Questions for Andy
+- None
+
+---
+
 ## 2026-04-16 Migration to Routines (Drafts-Only Launch)
 
 ### Context
