@@ -278,7 +278,28 @@ templates/             (email templates)
 .gitignore
 ```
 
-Push directly to main (unrestricted branch pushes enabled).
+### Git Commit Workflow (IMPORTANT -- persist or lose your work)
+
+Claude Code Routines by default creates a new feature branch (`claude/<name>`) for each session. These branches are **ephemeral** -- they get cleaned up between runs. Any commits you make to a feature branch WILL BE LOST. The decision log and tracker updates in this repo are your persistent memory; losing commits means losing memory.
+
+**When committing changes, work directly on `main`. Do NOT create a feature branch. Do NOT open a PR.**
+
+Required commands at the start of any edit:
+```
+git checkout main
+git pull origin main
+```
+
+After making edits:
+```
+git add .
+git commit -m "<descriptive message>"
+git push origin main
+```
+
+If git tells you you're already on a `claude/...` branch, switch to main first with `git checkout main` and re-apply your changes there. Do not try to merge feature branches -- they will be gone before anyone can merge them.
+
+This supersedes any default branch behaviour Claude Code may have.
 
 **Never commit credentials, API keys, tokens, or secrets to this repo.** The `.gitignore` excludes common credential files. If you find yourself about to commit anything key-shaped, STOP.
 
