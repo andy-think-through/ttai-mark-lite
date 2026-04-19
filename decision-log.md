@@ -4,6 +4,63 @@
 
 ---
 
+## 2026-04-19 Daily Run (Saturday)
+
+### Exploitation (80%)
+- Drafts posted: 0 (Saturday, no batch day)
+- Drafts approved / sent: 0
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: none (checked Gmail for all 7 prospects emailed on 17/04 -- zero replies)
+- Tracker updates: 12 changes staged in pending-tracker-updates.md (includes recovered updates from lost 2026-04-17 run)
+- Pipeline status: 7 in active monitoring (4 Email 4 + 3 re-engagement, all sent 17/04), 2 warm (Tippercrete, J&M), 1 warm-lapsed (SRK, pending Andy decision), 1 client (JDW), 1 warm needing research (R8)
+
+### Exploration (20%)
+- Analysis done: Reviewed pipeline response patterns. All 7 emails sent 17/04 are within 48-hour response window (still early). Tippercrete CI sample now at 5 days with no reply -- trending cold.
+- Experiments proposed: none
+- Cross-domain signals: Wiki's April 16 report noted "April 17-28 critical convergence window" with 7 decision points. Re-engagement batch results (expected 18-19 Apr) are now in window. No actionable signal change for today.
+
+### Decisions Made
+- Recovered lost pending-tracker-updates.md from April 17 ephemeral branch. Reconstructed all 12 updates from Slack messages and Gmail evidence. Committed to main this time.
+- J&M Groundworks status "Replied" -> "Warm": they asked for Andy's details to arrange a call on 04/03. That is unambiguously warm. "Replied" is not a valid schema status. Correcting.
+- Tippercrete status "In Sequence" -> "Warm": Danny Fordham replied warm ~13/04. CI sample sent 14/04. Even though CI sample got no reply, the warm reply stands. Status update had been staged on 16/04 but never applied.
+- SRK Groundworks: NOT changing status. "Replied" is invalid but needs Andy's explicit decision on whether to Park. Re-raising in Slack.
+- JDW -> Client: Andy-directed ("he's signed up to mark"). Staging per Andy's instruction.
+- Saturday run: no new outreach. Saturday is not a batch day. Monitoring only.
+
+### Questions for Andy
+- SRK Groundworks: "Replied" is not a valid schema status. Recommend Parked (replied ~7 weeks ago, zero engagement since). Awaiting your decision.
+- Tippercrete CI sample: 5 days with no reply. Do you want to follow up personally, or should I note this as lapsed?
+- Prior pending tracker updates: Cowork apply process has NOT run since migration. All updates from 16/04, 17/04, and 19/04 are accumulating. Please run the Cowork process or advise on an alternative.
+
+---
+
+## 2026-04-17 Daily Run (recovered -- original committed to ephemeral branch and lost)
+
+Note: This entry is reconstructed from Slack messages and Gmail evidence. The original run committed its decision log entry and pending-tracker-updates.md to a feature branch that was cleaned up. This is the repos-are-employee-memory failure mode in action.
+
+### Exploitation (80%)
+- Drafts posted: 7 (4 Northants Groundworks Email 4 + 3 Warwickshire re-engagement)
+- Drafts approved / sent: 7 (all approved by Andy at 10:58, drafted in Gmail at 11:02, sent by Andy same day)
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: none new
+- Tracker updates: 14 changes staged (lost to ephemeral branch, recovered in 19/04 run)
+- Pipeline status: 4 Groundworks completing sequence (Email 4), 3 site-trade re-engagement sent
+
+### Exploration (20%)
+- Analysis done: Proposed ML-UPDATE prefix format for Andy to notify status changes (Andy's response pending)
+- Experiments proposed: none
+- Cross-domain signals: Wiki's April 16 report noted JDW revenue and build week
+
+### Decisions Made
+- SRK Groundworks: Recommended Parked (replied ~7 weeks ago, no engagement since). Andy asked "should this be treated as warm or not?" -- Mark-Lite answered "not warm, recommend Parked." No explicit approval received.
+- JDW Brickwork: Andy confirmed "he's signed up to mark" -- staged as Client
+- Re-engagement emails: Drafted by Mark-Lite (no template existed -- Andy instructed "please draft yourself"). All 3 approved and sent.
+- CE firms: Andy instructed "skip for now, we need a better strategy"
+
+---
+
 ## 2026-04-16 Migration to Routines (Drafts-Only Launch)
 
 ### Context
