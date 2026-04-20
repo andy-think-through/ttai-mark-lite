@@ -4,6 +4,31 @@
 
 ---
 
+## 2026-04-20 Follow-Up (Andy's Responses to Outstanding Items)
+
+### Context
+Andy responded to the 5 outstanding items from the daily run report. Slack is working again.
+
+### Andy's Decisions (Processed)
+
+1. **Oakwood Scaffolding -- reply sent.** Andy sent the personal reply to Paul Saunders as suggested. Oakwood is now in Andy's hands. Status stays Warm; only Andy sets In Conversation. No further outreach from Mark-Lite.
+
+2. **SRK Groundworks -- Parked.** Andy confirmed "park it." Staged: Email Status "Replied" -> "Parked" in pending-tracker-updates.md. This resolves the invalid status that's been outstanding since 04/17.
+
+3. **Tippercrete follow-up -- suggestion provided.** Andy wants to follow up with Danny Fordham (CI sample sent 14/04, no reply 6 days). Suggested light-touch email: "Just wanted to check those leads landed OK. Happy to adjust the filters. Let me know either way." Awaiting Andy's decision on whether to send as-is, edit, or create as Gmail draft.
+
+4. **Cowork apply process -- running.** Andy started the Cowork process. 3 runs of accumulated updates (04/17, 04/19, 04/20) should be applied. I added SRK Parked to the pending file after Andy started the process -- if Cowork already read the file, SRK may need a separate apply. Will verify next run by reading trackers fresh.
+
+5. **Slack connector -- back and stable.** Andy says it should be working now. Will monitor and flag if it drops again.
+
+### Tracker Updates Staged
+- SRK Groundworks Ltd: Email Status "Replied" -> "Parked", Notes updated. (Added to pending-tracker-updates.md)
+
+### Questions for Andy
+- Tippercrete: awaiting decision on the follow-up email draft (send as-is, edit, or want it as a Gmail draft?)
+
+---
+
 ## 2026-04-20 Daily Run (Sunday)
 
 ### Exploitation (80%)

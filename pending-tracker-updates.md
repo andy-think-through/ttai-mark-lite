@@ -2,7 +2,7 @@
 ## Date: 2026-04-20
 ## Run: scheduled (Sunday monitoring -- includes all unapplied updates from 2026-04-17 and 2026-04-19)
 
-Note: The Cowork apply process has NOT run since migration. All updates from 2026-04-17, 2026-04-19, and 2026-04-20 are accumulated here. Please run the Cowork process.
+Note: Cowork apply process started by Andy 2026-04-20 ~10:55. All updates from 2026-04-17, 2026-04-19, and 2026-04-20 are accumulated here, plus SRK Parked added 2026-04-20 ~11:00 (Andy's approval). If Cowork already applied before this SRK addition, flag to Andy.
 
 ### Northants Tracker
 
@@ -54,7 +54,10 @@ No changes this run.
 
 Note on J&M: "Replied" is not a valid schema status. J&M asked for Andy's details to arrange a call on 2026-03-04 -- that is a warm signal. Correcting to "Warm".
 
-Note on SRK Groundworks: Status is "Replied" (not valid). Mark-Lite recommended "Parked" on 2026-04-17 and 2026-04-19 (replied ~7 weeks ago, no engagement since). Andy has not explicitly approved or rejected. Leaving as-is pending Andy's decision.
+| SRK Groundworks Ltd | Email Status | Replied | Parked |
+| SRK Groundworks Ltd | Notes | (existing notes) | (existing notes) + Replied ~Feb 2026, no engagement since. Parked per Andy 20/04/2026. |
+
+Note on SRK Groundworks: Andy confirmed "park it" on 2026-04-20. Status "Replied" (invalid) -> Parked.
 
 #### Opportunities
 No changes this run.
