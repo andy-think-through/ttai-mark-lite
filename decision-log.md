@@ -4,6 +4,21 @@
 
 ---
 
+## 2026-04-20 Follow-Up #2 (Danny/Tippercrete Update)
+
+### Context
+Andy confirmed he sent the follow-up email to Danny Fordham (Tippercrete). This resolves the outstanding Tippercrete question from the daily run.
+
+### Actions
+- Tippercrete follow-up: Andy sent the email to Danny himself. No further action from Mark-Lite. Ball is with Danny now.
+- Wiki repo question: Andy asked if Wiki's Cowork run pushed to GitHub. Clarified that Mark-Lite only has access to `ttai-mark-lite`, not the Wiki repo. Suggested Wiki check on its next run.
+
+### Decisions Made
+- Tippercrete follow-up item: CLOSED. Andy handled directly.
+- No tracker updates needed (Andy sent personally, not via Mark-Lite outreach sequence).
+
+---
+
 ## 2026-04-20 Follow-Up (Andy's Responses to Outstanding Items)
 
 ### Context
