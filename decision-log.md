@@ -4,6 +4,57 @@
 
 ---
 
+## 2026-04-20 Daily Run (Sunday)
+
+### Exploitation (80%)
+- Drafts posted: 0 (Sunday, no batch day)
+- Drafts approved / sent: 0
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: 1 (Oakwood Scaffolding -- size feedback, classified as warm, see below)
+- Tracker updates: 14 changes staged in pending-tracker-updates.md (12 carried from 04/19 + 2 new for Oakwood)
+- Pipeline status: 7 in active monitoring (4 Northants Email 4 + 3 Warwickshire re-engagement, all sent 17/04), 3 warm (Tippercrete, J&M, Oakwood), 1 warm-lapsed (SRK, pending Andy decision), 1 client (JDW)
+
+### Oakwood Scaffolding Reply (WARM ESCALATION)
+
+Reply received 2026-04-19 at 18:23 from Paul Saunders (oakwoodscaffolding@yahoo.co.uk):
+
+> "Good Evening, Thanks for considering Oakwood Scaffolding. Unfortunately this project is too big. Kind Regards Paul"
+
+This was in response to Email 4 (Overstone Hall, 74 Dwellings & 4 Apartment Blocks). Key observations:
+- They replied (most prospects don't). This is engagement.
+- Objection is about project SIZE, not relevance -- they do scaffolding, just not mega-projects.
+- Paul Saunders replied, not the listed contact Daniel Wenman. Both appear to work at Oakwood. Shared company email.
+- This is a small Northants scaffolding firm -- exactly the profile that should respond to right-sized leads.
+
+Classification: Warm (size-feedback). The size objection is an opening, not a close. They've told us what they want (smaller projects). Construction Intelligence could deliver that.
+
+Recommended next step for Andy: Personal reply acknowledging the size feedback. Something like "Appreciate the reply Paul -- most of what I find is smaller residential stuff, the odd bigger one like Overstone slips in. Would a weekly shortlist of smaller local jobs be useful?" Positions Construction Intelligence without overselling.
+
+**IMPORTANT: Slack unavailable this run. No Slack MCP tools available. This escalation is committed to the repo only. Andy needs to see this.**
+
+### Exploration (20%)
+- Analysis done: Monitored response window for 17/04 batch. Now 3 days post-send for all 7 emails (4 Northants Email 4 + 3 Warwickshire re-engagement). Oakwood is the first reply. Remaining 6 still within reasonable response window but trending towards no-reply.
+- Note: Oakwood was NOT part of the 17/04 batch. Their Email 4 was sent 10/04 (10 days ago). 10-day reply lag is unusual but not unheard of for small firms.
+- Experiments proposed: none
+- Cross-domain signals: No new Wiki or Fred reports to review (weekend).
+
+### Decisions Made
+- Oakwood Scaffolding classified as Warm: polite reply with size feedback is engagement. Escalated per warm reply rules.
+- Oakwood status staged: In Sequence -> Warm in pending-tracker-updates.md.
+- Sunday run: no new outreach. Sunday is not a batch day. Monitoring only.
+- Slack fallback: no Slack MCP tools available. Committed report and escalation to repo. Created Gmail draft as backup notification.
+- Prior pending tracker updates: still not applied (Cowork process hasn't run). Re-flagging. All updates from 04/17, 04/19, and 04/20 are accumulating.
+
+### Questions for Andy
+- Oakwood Scaffolding: warm reply (size feedback). Recommend personal reply positioning smaller-project leads. See escalation above.
+- SRK Groundworks: still awaiting your decision from 04/19 (recommend Parked).
+- Tippercrete CI sample: still awaiting your view from 04/19 (5+ days, no reply to CI sample).
+- Cowork apply process: 3 runs of pending updates now accumulated (04/17, 04/19, 04/20). Please run the Cowork process or advise alternative.
+- Slack connector: unavailable this run. Is this expected? If Slack tools should be available, this needs investigating.
+
+---
+
 ## 2026-04-19 Daily Run (Saturday)
 
 ### Exploitation (80%)
