@@ -1,8 +1,8 @@
 # Pending Tracker Updates
-## Date: 2026-04-20
-## Run: scheduled (Sunday monitoring -- includes all unapplied updates from 2026-04-17 and 2026-04-19)
+## Date: 2026-04-21
+## Run: scheduled (Monday daily run -- includes ALL unapplied updates from 2026-04-17, 2026-04-19, 2026-04-20, and 2026-04-21)
 
-Note: Cowork apply process started by Andy 2026-04-20 ~10:55. All updates from 2026-04-17, 2026-04-19, and 2026-04-20 are accumulated here, plus SRK Parked added 2026-04-20 ~11:00 (Andy's approval). If Cowork already applied before this SRK addition, flag to Andy.
+WARNING: These updates have been accumulating since 2026-04-17 (5 days). Cowork apply has NOT run. Verified by reading trackers fresh on 2026-04-21 -- all old values still present. Andy notified.
 
 ### Northants Tracker
 
@@ -49,7 +49,8 @@ No changes this run.
 | Row (Company Name) | Column | Old Value | New Value |
 |---|---|---|---|
 | Tippercrete Concrete Ltd | Email Status | In Sequence | Warm |
-| Tippercrete Concrete Ltd | Notes | | Danny Fordham replied warm ~13/04/2026. CI sample sent 14/04/2026, no reply as of 20/04/2026. |
+| Tippercrete Concrete Ltd | Notes | | Danny Fordham replied warm ~13/04/2026. CI sample sent 14/04/2026. Danny replied 20/04: "I didn't get them" / "Send again ta". Andy re-sent leads 20/04. Danny replied: "I don't think its for me i am only a small firm and jobs are a bit far away too." Soft decline on sample mix (size + distance), not opt-out. |
+| Tippercrete Concrete Ltd | Reply Outcome | | Replied 20/04/2026 -- soft decline on CI sample. Objections: firm too small for leads shown, jobs too far from Coventry. Addressable with tighter filter. |
 | J&M Groundworks Coventry LTD | Email Status | Replied | Warm |
 
 Note on J&M: "Replied" is not a valid schema status. J&M asked for Andy's details to arrange a call on 2026-03-04 -- that is a warm signal. Correcting to "Warm".

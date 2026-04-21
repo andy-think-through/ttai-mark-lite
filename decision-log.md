@@ -4,6 +4,90 @@
 
 ---
 
+## 2026-04-21 Daily Run (Monday)
+
+### Exploitation (80%)
+- Drafts posted: 0 (Monday batch exhausted -- see below)
+- Drafts approved / sent: 0
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: 1 (Tippercrete -- Danny Fordham soft decline with size/distance feedback, see below)
+- Tracker updates: 16 changes staged in pending-tracker-updates.md (14 carried from 04/20 + 2 new for Tippercrete notes)
+- Pipeline status: 7 in active monitoring (4 Northants Email 4 + 3 Warwickshire re-engagement, sent 17/04, day 4, zero replies), 3 warm (Tippercrete, Oakwood, J&M -- all with Andy), 1 warm-needing-research (R8), 1 parked (SRK, pending apply), 1 client (JDW)
+
+### Tippercrete -- Danny Fordham Replied (ESCALATED)
+
+Danny sent 3 messages on 20/04:
+1. "I didn't get them" (12:03 UTC) -- didn't receive original CI sample from 14/04
+2. "Send again ta" (12:03 UTC) -- asked for re-send
+3. Andy re-sent leads at 20:57 UTC
+4. Danny replied at 21:02 UTC: "Can see it now. I don't think its for me i am only a small firm and jobs are a bit far away too. Ta m8"
+
+Classification: Warm -- soft decline with specific, addressable feedback. NOT an opt-out.
+
+Danny's objections:
+- Size: 5-employee firm. Sample included Shipston Business Village (8 commercial units) and Greville Business Park (11 units) -- too big.
+- Distance: Tippercrete is in Coventry CV2. Several leads were Shipston-on-Stour (30+ min), Lea Marston, Kingsbury (north of Birmingham). Not Danny's patch.
+
+The sample may have been miscalibrated for Danny's size and range. He needs hyper-local small groundworks (extensions, driveways, small residential) within 15-20 min of Coventry. The question is whether PlanIt data density supports that tighter filter.
+
+Escalated to Slack with suggested response approach for Andy.
+
+### J&M Groundworks -- Full Picture (Updated)
+
+Read full Gmail thread:
+- 04/03: Kane replied "Sounds good, send me your details and we can give you a call."
+- 04/03: Andy sent his phone number, offered call Fri/next day.
+- 06/03: Andy sent clarification ("I'm not the client, I find leads like this for firms").
+- No response from Kane since. 46 days of silence.
+
+Andy DID follow up promptly. Kane went cold. This is a lapsed warm reply, not an unactioned one. Status stays Warm per schema (only Andy changes from Warm). Flagging to Andy: does J&M warrant a re-engagement attempt or should it be parked?
+
+### Monday Batch Assessment
+
+Northants Monday batch:
+1-4. Hewlett, MBH, NR Groundworks, Brennan -- Groundworks, Email 4 already sent 17/04. Complete, monitoring.
+5-6. Prestige CE, L4 CE -- Civil Engineering. Skipped per Andy ("CE skip for now").
+7. JDW -- Client. No outreach.
+8. Hawk Drainage -- Drainage (supply-chain trade). Skip per principles.
+
+Warwickshire Monday batch:
+1-6. Rowland AC, Chilled System Solutions, Univent, Chillaire, PRT Heating, Temp Air Solutions -- ALL HVAC/Mechanical (supply-chain). Skip per principles.
+
+Result: zero actionable prospects in today's batch.
+
+### Pending Tracker Updates -- STILL NOT APPLIED (Day 5)
+
+Read both trackers fresh. Confirmed: Cowork apply process has NOT applied any updates. Evidence:
+- Hewlett still shows Email 3 / In Sequence (should be Email 4 / sent)
+- JDW still shows "Replied - Warm" (should be Client)
+- Oakwood still shows "In Sequence" (should be Warm)
+- J&M still shows "Replied" (should be Warm)
+- Tippercrete still shows "In Sequence" (should be Warm)
+- SRK still shows "Replied" (should be Parked)
+
+5 days of accumulated updates. Re-flagging urgently.
+
+### Exploration (20%)
+- Analysis done: 17/04 batch now at day 4. Zero replies from 7 prospects (Hewlett, MBH, NR Groundworks, Brennan, A Valley Plant, M Carty, Kimben). Trending towards no-reply. Typical response window is 3-7 days; still possible but probability declining.
+- Oakwood: Andy replied to Paul 20/04. No reply from Paul yet (<24 hours, still early).
+- Experiments proposed: none
+- Cross-domain signals: No new Wiki or Fred reports since 04/20.
+
+### Decisions Made
+- Tippercrete: classified as Warm (soft decline, not opt-out). Danny gave specific feedback. Escalated for Andy's personal response.
+- Monday batch: all prospects skipped (completed/Client/CE-skipped/supply-chain). No drafts today.
+- J&M: updated understanding -- Andy did follow up, Kane went silent. Flagging to Andy for decision.
+- Pending tracker updates: re-flagging as urgent. 5 days without apply.
+
+### Questions for Andy
+1. Tippercrete: Danny declined the sample (too big, too far). Should we offer a tighter Coventry-local filter? See Slack escalation.
+2. J&M Groundworks: Kane went silent 46 days ago after Andy followed up. Park, or attempt re-engagement?
+3. Cowork apply: 5 days of accumulated tracker updates. None applied. What's blocking this?
+4. Oakwood: monitoring for Paul's reply to Andy's message (sent 20/04).
+
+---
+
 ## 2026-04-20 Follow-Up #2 (Danny/Tippercrete Update)
 
 ### Context
