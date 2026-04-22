@@ -4,6 +4,78 @@
 
 ---
 
+## 2026-04-22 Daily Run (Tuesday)
+
+### Exploitation (80%)
+- Drafts posted: 0 (Tuesday batch exhausted -- all completed, CE-skipped, or supply-chain)
+- Drafts approved / sent: 0
+- Drafts edited: 0
+- Drafts rejected: 0
+- Replies processed: none (checked Gmail for all active prospects -- zero new messages)
+- Tracker updates: 0 new changes this run. 16 changes from prior runs still pending in pending-tracker-updates.md (day 6 without apply).
+- Pipeline status: 7 in active monitoring (4 Northants Email 4 + 3 Warwickshire re-engagement, sent 17/04, day 5, zero replies), 3 warm (Tippercrete, Oakwood, J&M -- all with Andy), 1 warm-needing-research (R8), 1 parked (SRK, pending apply), 1 client (JDW)
+
+### 17/04 Batch -- Day 5, Zero Replies
+
+All 7 emails sent 17/04 have produced zero replies at day 5:
+- Northants Email 4: Hewlett, MBH, NR Groundworks, Brennan
+- Warwickshire re-engagement: A Valley Plant, M Carty, Kimben
+
+Typical response window is 3-7 days. Day 5 means most responses that will come have already come. Oakwood (Email 4 from 10/04) replied at day 10, but that's an outlier. The realistic assessment is this batch is trending to zero.
+
+If confirmed at day 7, this is the first complete zero-response batch since the site-trade discovery. Wiki flagged the same observation on 21/04: "If this batch produces no replies, it's the first complete zero-response batch since the site-trade discovery. Worth checking whether the batch was all Email 4s (diminishing returns) or whether Northants groundworks has hit its natural ceiling."
+
+Both factors are likely in play. Email 4 is the last-chance email with diminishing returns, AND the Northants groundworks pool may be tapped out after 4 warm replies from ~39 firms (10.3% warm rate -- actually decent for cold outreach, just no more left in the pool).
+
+### Tuesday Batch Assessment
+
+Northants Tuesday batch:
+1-3. MMK Civil Engineers, Gladstone Construction CE, T&C Construction -- Civil Engineering. Skipped per Andy ("CE skip for now").
+4-8. Euro Scaffolding, Sapphire Scaffolding, Precision Access, TR Scaffold, M Bliss Brickwork -- all at Email 4 already completed.
+
+Warwickshire Tuesday batch:
+1-5. Sage, F.H. Roofing, Jessop Roofing, Moss Roofing, JCD Roofing -- Roofing (supply-chain trade). Skip per principles.
+6. M Carty Brickwork -- re-engagement already sent 17/04.
+
+Result: zero actionable prospects.
+
+### Warm Reply Monitoring
+
+- Oakwood: Andy replied to Paul on 20/04. No reply from Paul (~40 hours). Within normal response time for small tradesperson. No action needed from Mark-Lite.
+- Tippercrete: Danny soft-declined sample on 20/04. Escalated to Andy on 21/04. Andy hasn't responded to Danny yet (~24 hours since escalation). Not yet at 48-hour reminder threshold.
+- J&M: Kane silent 47 days. Question to Andy outstanding since 21/04 (park or re-engage?). Awaiting decision.
+
+### Pending Tracker Updates -- STILL NOT APPLIED (Day 6)
+
+Read both trackers fresh. Confirmed: Cowork apply has still NOT run. All evidence from yesterday still present:
+- Hewlett still shows Email 3 / In Sequence (should be Email 4 / sent)
+- JDW still shows "Replied - Warm" (should be Client)
+- Oakwood still shows "In Sequence" (should be Warm)
+- J&M still shows "Replied" (should be Warm)
+- Tippercrete still shows "In Sequence" (should be Warm)
+- SRK still shows "Replied" (should be Parked)
+
+6 days of accumulated updates. Re-flagging urgently.
+
+### Exploration (20%)
+- Analysis done: 17/04 batch at day 5 with zero replies. Both regions' active site-trade pipelines are effectively exhausted -- all prospects have either completed their sequences, are warm (in Andy's hands), or are supply-chain/CE trades (skipped). No new prospects to sequence without launching a new campaign.
+- Read Wiki's 3 reports from 21/04. Key signals: JDW build week underway, Steve Tipson consulting confirmed, Tonic spec redirected, face-to-face meetings as conversion accelerant. None change Mark-Lite actions.
+- Fred still paused per last update.
+- Experiments proposed: none
+
+### Decisions Made
+- Tuesday batch: all prospects skipped (completed/CE-skipped/supply-chain/re-engagement-sent). No drafts today.
+- Pending tracker updates: no new changes to add. Carrying forward all 16 changes from prior runs. Re-flagging urgency.
+- Oakwood: within normal response window, no nudge needed yet.
+- Tippercrete escalation: <24 hours since escalation, no reminder yet.
+
+### Questions for Andy
+1. Tippercrete: Danny's soft decline still unanswered. Recommend responding before the window closes -- Danny was engaged and gave specific feedback.
+2. J&M Groundworks: Kane silent 47 days. Park, or attempt re-engagement? Outstanding since 21/04.
+3. Cowork tracker apply: Day 6. What's blocking this? The longer it accumulates, the harder the apply becomes.
+
+---
+
 ## 2026-04-21 Daily Run (Monday)
 
 ### Exploitation (80%)
